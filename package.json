@@ -1,0 +1,22 @@
+{
+  "name": "Mashup",
+  "description": "Mashup WebSite",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Tom-Tom/mashup",
+  "author": {
+    "name": "Tom FORLINI <tomforlini@gmail.com>",
+    "email": "tomforlini@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Tom-Tom/mashup.git"
+  },
+  "engines": {
+    "node": ">=0.8.10"
+  },
+  "dependencies": {
+    "colors": ">=0.5.1",
+    "socket.io": "latest",
+    "request": "latest"
+  }
+}
